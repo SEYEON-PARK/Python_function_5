@@ -4,4 +4,4 @@ def minus(a, b):
 a=5
 b=2 # 변수 초기화
 
-minus(a, b)
+minus(a, b) # 함수 이용
